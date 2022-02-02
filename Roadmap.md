@@ -6,19 +6,19 @@ This is a Roadmap for my Bioinformatics Internship at ICIPE.
 
 ---
 ## Things to Learn
-Teamwork
+. Teamwork
 
-Collaboration
+. Collaboration
 
-Machine Learning and Data analysis
+. Machine Learning and Data analysis
 
-Communication Skills
+. Communication Skills
 
 ## Things to Achieve
-Collaborate and network with other scientists.
+. Collaborate and network with other scientists.
 
-Acquire Knowledge on Bioinformatics Applications in Drug development.
+. Acquire Knowledge on Bioinformatics Applications in Drug development.
 
-Present work done.
+. Present work done.
 
 ---
