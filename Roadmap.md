@@ -3,19 +3,28 @@
 Hello 
 
 This is a Roadmap for my Bioinformatics Internship at ICIPE.
+Here is a link to my [Readme](https://github.com/alunga20/Bionformatics-Internship.git) repository to know my vision.
 
 ---
 ## Things to Learn
-. Teamwork
+*Technical skills* 
 
-. Collaboration
+. Learn [R](https://www.geeksforgeeks.org/basic-syntax-in-r-programming/) syntax 
+
+. Learn [Python](https://www.python.org/) programming
+
+. Practice and learn [Linux](https://www.simplilearn.com/linux-programming-for-beginners-article) command line.
+
+
+*Soft skills*
+
+. Teamwork and Collaboration
 
 . Machine Learning and Data analysis
 
 . Communication Skills
 
-## Things to Achieve
-. Collaborate and network with other scientists.
+. Collaborate and networking with other scientists.
 
 . Acquire Knowledge on Bioinformatics Applications in Drug development.
 
