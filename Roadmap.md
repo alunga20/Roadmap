@@ -15,18 +15,18 @@ Here is a link to my [Readme](https://github.com/alunga20/Bionformatics-Internsh
 
 . Practice and learn [Linux](https://www.simplilearn.com/linux-programming-for-beginners-article) command line.
 
+. Machine Learning and Data analysis
+
+. Acquire Knowledge on Bioinformatics Applications in Drug development.
+
 
 *Soft skills*
 
 . Teamwork and Collaboration
 
-. Machine Learning and Data analysis
-
 . Communication Skills
 
 . Collaborate and networking with other scientists.
-
-. Acquire Knowledge on Bioinformatics Applications in Drug development.
 
 . Present work done.
 
